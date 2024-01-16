@@ -25,4 +25,4 @@ AdminDash Pro is a comprehensive admin dashboard that provides a centralized int
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sukhbir77/admin_dashboard.git
+   git clone https://github.com/sukhbir77/admin-dashboard-syncfusion-react.git
